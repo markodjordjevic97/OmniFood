@@ -1,0 +1,299 @@
+@media only screen and (max-width:1200px) {
+    .hero-text-box {
+        width: 1000px;
+        padding: 0 2%
+    }
+    .row {
+        padding: 0 1%
+    }
+    .form .row {
+        padding: 0
+    }
+    .box h3 {
+        font-size: 92%
+    }
+}
+
+@media only screen and (max-width:1023px) {
+    body,
+    html {
+        font-size: 17px
+    }
+    .hero-text-box {
+        width: 750px;
+        padding: 0 2%
+    }
+    .main-nav {
+        font-size: 120%
+    }
+    section {
+        padding: 60px 0
+    }
+    .box h3 {
+        font-size: 76%;
+        font-weight: 700
+    }
+    .long-copy {
+        width: 80%;
+        margin-left: 10%
+    }
+    .meals {
+        margin-bottom: 35px
+    }
+    .steps {
+        margin: 20px 0 0 0
+    }
+    .step-box {
+        margin-top: 20px
+    }
+    .step-box:last-child {
+        margin-top: 28px;
+        padding-left: 3%
+    }
+    .works-step {
+        margin-bottom: 35px
+    }
+    .works-step:last-of-type {
+        margin-bottom: 50px
+    }
+    .works-step div {
+        height: 45px;
+        width: 45px;
+        text-align: center;
+        padding: 5px;
+        float: left;
+        font-size: 140%;
+        margin-right: 25px
+    }
+    .btn-app {
+        margin-right: 2px;
+        height: 45px
+    }
+    .icon-small {
+        text-align: left;
+        width: 10px;
+        margin-right: 1px;
+        margin-left: -4px
+    }
+    cite {
+        font-size: 90%
+    }
+    .plan-box {
+        width: 100%;
+        margin-left: 0
+    }
+    .form {
+        width: 70%
+    }
+    footer {
+        padding: 30px;
+        font-size: 81%
+    }
+    .footer-nav {
+        margin-left: -20px
+    }
+}
+
+@media only screen and (max-width:767px) {
+    body {
+        font-size: 16px
+    }
+    .hero-text-box {
+        top: 57%
+    }
+    section {
+        padding: 30px 0
+    }
+    .logo {
+        margin-top: 5px
+    }
+    .mob-icon {
+        display: inline-block
+    }
+    .sticky .mob-icon {
+        display: inline-block
+    }
+    .main-nav {
+        background-color: rgba(255, 255, 255);
+        margin-top: 0;
+        width: 100%;
+        z-index: 9999;
+        display: none
+    }
+    .main-nav li {
+        display: block;
+        text-align: center;
+        margin: 0;
+        padding: 15px 0
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        margin-bottom: 5px;
+        border: 0;
+        color: #000
+    }
+    .sticky .main-nav {
+        margin-top: 0
+    }
+    .hero-text-box,
+    .row {
+        padding: 0 1%
+    }
+    .col {
+        width: 100%
+    }
+    .hero-text-box {
+        width: 470px
+    }
+    .box p {
+        padding: 0 2%
+    }
+    .features .long-copy {
+        margin-bottom: 20px
+    }
+    .meals-showcase li {
+        width: 50%
+    }
+    h1,
+    h2,
+    h3 {
+        font-size: 155%
+    }
+    .box:first-child {
+        margin-left: 2%
+    }
+    .app-screen {
+        width: 27%
+    }
+    .step-box:first-child {
+        text-align: center
+    }
+    .steps {
+        margin: 40px 0 0 0
+    }
+    .step-box {
+        margin-top: 15px
+    }
+    .step-box:last-child {
+        margin-top: 28px;
+        padding-left: 3%
+    }
+    .works-step {
+        margin-bottom: 30px;
+        margin-right: 5px
+    }
+    .works-step div {
+        height: 40px;
+        width: 40px;
+        text-align: center;
+        padding: 5px;
+        float: left;
+        font-size: 140%;
+        margin-right: 25px
+    }
+    .btn-app {
+        height: 50px;
+        width: auto;
+        margin-left: 20px
+    }
+    .box img {
+        width: 90%;
+        height: auto;
+        margin: 0 5% 15px 5%
+    }
+    .box {
+        text-align: center
+    }
+    .box h3 {
+        font-size: 110%
+    }
+    .ion-social-twitter {
+        margin-left: 60px
+    }
+    .icon-small {
+        margin-right: 10px
+    }
+    blockquote {
+        margin-top: 10px
+    }
+    cite {
+        text-align: center
+    }
+    .plan-box {
+        width: 74%;
+        margin: 0 13%;
+        height: 30%
+    }
+    .plan-box div ul li i {
+        font-size: 180%
+    }
+    .col {
+        margin: 5px 0
+    }
+    footer {
+        position: relative
+    }
+    .footer-nav {
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        font-size: 110%
+    }
+    .form {
+        margin: 0 auto;
+        width: 80%
+    }
+    footer {
+        padding: 10%
+    }
+    .social-links {
+        position: absolute;
+        top: 55%;
+        left: 35%
+    }
+    .ion-social-twitter {
+        margin: 0
+    }
+    footer p {
+        position: absolute;
+        bottom: 0;
+        left: 20%;
+        font-size: 105%
+    }
+    @media only screen and (max-width:480px) {
+        body {
+            font-size: 13.5px
+        }
+        section {
+            padding: 15px 2%
+        }
+        .logo {
+            height: 90px;
+            margin-left: 20px
+        }
+        h1,
+        h2,
+        h3 {
+            font-size: 130%
+        }
+        header {
+            background-attachment: fixed;
+            background-repeat: no-repeat
+        }
+        .hero-text-box {
+            width: 350px
+        }
+        .btn-app {
+            height: 40px;
+            float: left;
+            width: 120px;
+            margin-left: 15px
+        }
+        blockquote::before {
+            left: 0
+        }
+        .footer-nav li {
+            margin-right: 15px
+        }
+    }
+}
